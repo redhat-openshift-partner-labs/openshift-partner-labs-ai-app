@@ -1,0 +1,8 @@
+openai
+ollama
+deepeval
+duckduckgo-search
+yfinance
+sqlalchemy
+fastapi[standard]
+agno

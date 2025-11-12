@@ -1,0 +1,13 @@
+[project]
+name = "openshift-partner-labs-ai-app"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "agno>=2.1.5",
+    "deepeval>=3.6.7",
+    "fastapi>=0.119.0",
+    "groq>=0.32.0",
+    "uvicorn>=0.37.0",
+]
