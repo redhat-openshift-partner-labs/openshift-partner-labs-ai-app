@@ -8,6 +8,8 @@ dependencies = [
     "agno>=2.1.5",
     "deepeval>=3.6.7",
     "fastapi>=0.119.0",
+    "fastmcp>=2.13.1",
     "groq>=0.32.0",
+    "mcp>=1.21.0",
     "uvicorn>=0.37.0",
 ]

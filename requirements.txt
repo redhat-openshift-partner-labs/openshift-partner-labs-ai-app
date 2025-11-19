@@ -6,3 +6,5 @@ yfinance
 sqlalchemy
 fastapi[standard]
 agno
+mcp
+fastmcp

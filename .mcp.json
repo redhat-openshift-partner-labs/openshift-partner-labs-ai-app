@@ -1,0 +1,16 @@
+{
+    "mcpServers": {
+        "agnodocs": {
+            "type": "http",
+            "url": "https://docs.agno.com/mcp"
+        },
+        "mcpdocs": {
+            "type": "http",
+            "url": "https://modelcontextprotocol.io/mcp"
+        },
+        "fastmcpdocs": {
+            "type": "http",
+            "url": "https://gofastmcp.com/mcp"
+        }
+    }
+}
